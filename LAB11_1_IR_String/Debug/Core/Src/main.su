@@ -1,0 +1,12 @@
+../Core/Src/main.c:78:6:IRStringTransmit	24	static
+../Core/Src/main.c:88:6:IRByteTransmit	56	static
+../Core/Src/main.c:145:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:158:6:HAL_UART_RxCpltCallback	24	static
+../Core/Src/main.c:178:5:main	32	static
+../Core/Src/main.c:231:6:SystemClock_Config	88	static
+../Core/Src/main.c:278:13:MX_TIM2_Init	64	static
+../Core/Src/main.c:337:13:MX_TIM3_Init	32	static
+../Core/Src/main.c:382:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:415:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:448:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:484:6:Error_Handler	4	static,ignoring_inline_asm
